@@ -1,0 +1,2 @@
+javac UserInterface.java
+pause
